@@ -3,3 +3,24 @@ there's no diffrernt in my remote directory.
 
 #I re-try this file on remote directory
 HAHAHA I think after I do this, just pull command makes the every local directorys changed.
+
+Changed in Tutorial2 jsdkfsl;dalskjdfkasdjfalsdkfj;;;;;;;;;;;;;;;
+
+tutorial1/Hello.txt(changed1)
+ |
+ V
+commited		
+		tutorial2/Hello.txt(changed2)
+		  |
+		  V
+		commited
+
+############################################Error occur?
+  |
+  V
+pushed
+		  |
+ 		  V
+		pushed
+
+###########################################Error occur?
