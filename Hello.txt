@@ -1,0 +1,2 @@
+HELLo my name is Choi Wheatley. I think that If I don't commit this directory(tutorial 2), than no matter what I push everytime,
+there's no diffrernt in my remote directory.
