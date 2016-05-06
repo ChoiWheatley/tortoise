@@ -4,7 +4,9 @@ there's no diffrernt in my remote directory.
 #I re-try this file on remote directory
 HAHAHA I think after I do this, just pull command makes the every local directorys changed.
 
-Changed in Tutorial2 jsdkfsl;dalskjdfkasdjfalsdkfj;;;;;;;;;;;;;;;
+Changed in tutorial1.git
+hahahahahahahahahahah
+what changed after I commit and push?
 
 tutorial1/Hello.txt(changed1)
  |
